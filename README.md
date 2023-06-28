@@ -2,7 +2,9 @@
 
 O objetivo desse repositório é criar uma jornada para mentoria e treinamento de um desenvolvedor Back-end Júnior.
 
-A idéia inicial é que um desenvolvedor back-end júnior encontre um mentor e aplique os passos aqui definidos para desenvolver um rojeto, como uma forma de treinamento, estudo e preparação.
+A idéia inicial é que um desenvolvedor back-end júnior encontre um mentor e aplique os passos aqui definidos para desenvolver um projeto inicial que atenda aos requisitos propostos, como uma forma de treinamento, estudo e preparação para entrevistas técnicas.
+
+O papel do mentor é o de auxiliar nas etapas de desenvolvimento inicial (1) code review e correções (2) e de implementação de alguns padrões de design (3).
 
 ## Passo a passo da jornada:
 
