@@ -2,7 +2,7 @@
 
 O objetivo desse repositório é criar uma jornada para mentoria e treinamento de um desenvolvedor Back-end Júnior.
 
-A idéia inicial é que um desenvolvedor júnior encontre um mentor e aplique os passos aqui definidos, como uma forma de treinamento, estudo e preparação.
+A idéia inicial é que um desenvolvedor back-end júnior encontre um mentor e aplique os passos aqui definidos para desenvolver um rojeto, como uma forma de treinamento, estudo e preparação.
 
 ## Passo a passo da jornada:
 
@@ -28,6 +28,7 @@ A idéia inicial é que um desenvolvedor júnior encontre um mentor e aplique os
 
 ## Observações:
 
+- Os projetos são agnósticos de linguagem, qualquer linguagem / framework com foco em back-end pode ser utilizado a depender das skills do mentor / mentorado.
 - Não hesite em fazer perguntas em qualquer etapa da jornada. O papel do seu mentor é te ajudar.
 - Se você não conseguir atender a algum requisito, não se sinta culpado. Peça ajuda ou entregue o que conseguir realizar.
 - Pratique e aprimore seu ["Google-Fu"](https://medium.com/analytics-vidhya/https-medium-com-what-is-googlefu-tips-and-tricks-to-be-googlefu-advanced-powersearching-with-google-f7e5661a8bca) - suas habilidades de pesquisa online - para encontrar soluções e informações relevantes.
