@@ -1,6 +1,6 @@
-# Jornada de treinamento para um desafio técnico de um desenvolver Back-end Júnior
+# Jornada de treinamento para um desafio técnico de um desenvolvedor Back-end Júnior
 
-O objetivo desse repositório é criar uma jornada para mentoria e treinamento de um desenvolvedor Back-end Júnior.
+O objetivo desse repositório é criar uma jornada para mentoria e treinamento de um desenvolvedor Back end Júnior.
 
 A idéia inicial é que um desenvolvedor back-end júnior encontre um mentor e aplique os passos aqui definidos para desenvolver um projeto inicial que atenda aos requisitos propostos, como uma forma de treinamento, estudo e preparação para entrevistas técnicas.
 
